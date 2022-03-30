@@ -1,3 +1,3 @@
 happy
-sad
+*sad
 end
